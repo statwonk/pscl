@@ -5,7 +5,7 @@ Title: Political Science Computational Laboratory, Stanford University
 Author: Simon Jackman, with contributions from
         Alex Tahk, Achim Zeileis, Christina Maimone and Jim Fearon
 Maintainer: Simon Jackman <jackman@stanford.edu>
-Depends: R (>= 2.10.0), MASS, lattice
+Depends: R (>= 2.10.0), lattice
 Suggests: MCMCpack, car, lmtest, sandwich, zoo, coda, vcd, mvtnorm
 Enhances: stats
 Description: Bayesian analysis of item-response theory (IRT) models,
